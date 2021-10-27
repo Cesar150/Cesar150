@@ -7,7 +7,7 @@
 - 📫 How to reach me:@Cesar150
 
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Cesar150/af6c59458bf9c22808b0055c1c63a477/raw/1ce70c8ec6ccfdd677552d5656955500e63282c6/githubcard.svg"/>
-<div align="center">
+<div align="left">
   <a href="https://github.com/Cesar150">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cesar150&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesar150&layout=compact&langs_count=7&theme=dark"/>
